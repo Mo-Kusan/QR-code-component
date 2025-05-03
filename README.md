@@ -11,3 +11,4 @@
 - CSS custom properties
 - Mobile-first workflow
 
+![Design preview for the QR code component coding challenge](./preview.jpg)
