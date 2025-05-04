@@ -3,8 +3,8 @@
     src: url(fonts/Outfit/Outfit-VariableFont_wght.ttf);
 }
 body {
-    background-color: hsl(216, 45%, 89%);
-    height: 900px;
+    background-color: hsl(212, 45%, 89%);
+    height: 950px;
 }
 
 main {
