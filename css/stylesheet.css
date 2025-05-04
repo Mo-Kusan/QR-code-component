@@ -4,6 +4,7 @@
 }
 body {
     background-color: hsl(216, 45%, 89%);
+    height: 1000px;
 }
 
 main {
