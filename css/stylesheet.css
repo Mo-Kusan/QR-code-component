@@ -36,13 +36,11 @@ body {
     font-size: 15px;
 }
 
-@media SCREEN and (min-width: 375px) {
-    body {
-
-    }
+@media SCREEN and (max-width: 375px) {
+   
     #component {
         margin: auto ;
-        margin-top: 30%;
+        margin-top: 50%;
         width: 280px;
         background-color: white;
         padding: 15px;  
