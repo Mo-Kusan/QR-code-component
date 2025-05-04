@@ -6,21 +6,26 @@ body {
     background-color: hsl(216, 45%, 89%);
 }
 
+main {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #component {
-    margin: auto ;
-    margin-top: 12%;
     width: 300px;
     background-color: white;
     padding: 20px;
     text-align: center;
-    border-radius: 5%;
+    border-radius: 15px;
     font-family: Outfit;
 }
 
 #component img {
     max-width: 100%;
     max-height: 100%;
-    border-radius: 5%;
+    border-radius: 10px;
 }
 
 #component > div {
@@ -39,8 +44,6 @@ body {
 @media SCREEN and (max-width: 375px) {
    
     #component {
-        margin: auto ;
-        margin-top: 50%;
         width: 280px;
         background-color: white;
         padding: 15px;  
