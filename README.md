@@ -14,6 +14,6 @@
 
 ### Link
 
-https://mo-kusan.github.io/QR-code-component/
+- Live Site URL: https://mo-kusan.github.io/QR-code-component/
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
