@@ -2,6 +2,7 @@
 
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Link](#Link)
 
 ## My process
 
@@ -10,5 +11,9 @@
 - Semantic HTML5 markup
 - CSS custom properties
 - Mobile-first workflow
+
+### Link
+
+https://mo-kusan.github.io/QR-code-component/
 
 ![Design preview for the QR code component coding challenge](./preview.jpg)
